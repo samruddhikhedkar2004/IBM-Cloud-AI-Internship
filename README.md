@@ -29,7 +29,8 @@ This repository contains details and files from my **4-week IBM SkillsBuild Inte
 - External APIs (OpenWeather, Google Maps)  
 
 🔹 **Deployed:**  
-- Via **Watson Assistant Web Chat Integration** with a public link for easy access.  
+- Via **Watson Assistant Web Chat Integration** (IBM Cloud Lite version).  
+- A **PDF report** with project details and screenshots is included in this repository.  
 
 ---
 
