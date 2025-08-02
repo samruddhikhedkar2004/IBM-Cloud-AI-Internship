@@ -30,7 +30,7 @@ This repository contains details and files from my **4-week IBM SkillsBuild Inte
 
 🔹 **Deployed:**  
 - Via **Watson Assistant Web Chat Integration** (IBM Cloud Lite version).  
-- A **PDF report** with project details and screenshots is included in this repository.  
+- A **PDF report** with project details is included in this repository.  
 
 ---
 
