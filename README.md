@@ -7,10 +7,26 @@ This repository contains details and files from my **4-week IBM SkillsBuild Inte
 ## 📖 Overview of the Internship  
 
 - 🗓️ **Duration:** 4 Weeks  
-- 💻 Focused on Emerging Technologies: **AI & Cloud**  
-- 🧠 Hands-on experience using **IBM SkillsBuild** platform and IBM Cloud services.  
-- 🛠️ Learned **Watsonx.ai**, **Watson Assistant**, **IBM Granite (LLM)**, Cloud Functions, Object Storage, and more.  
-- 📈 Enhanced employability by earning skills credentials and industry mentorship.  
+### 📅 Week 1 – Orientation & Getting Started 💻
+- Got introduced to the internship structure and expectations  
+- Registered on **IBM Cloud** and set up my environment 
+- Learned the basics of **Cloud Computing** 
+- Explored **Jupyter Notebooks** through a guided demo   
+- Introduction to **AI/ML concepts** and their real-world applications   
+
+### 📅 Week 2 – Exploring AI Tools & Watsonx 📊
+- Learned fundamentals of **Data Analytics**  
+- Discovered **RAG (Retrieval-Augmented Generation)** and its applications 
+- Built a **Chatbot using IBM Watsonx Assistant**
+
+### 📅 Week 3 – Building with Agentic AI 🤖
+- Designed and developed a **RAG system** using the **IBM Granite Model** 
+- Gained hands-on experience with **Agentic AI** by working on real-time projects on IBM Cloud 🛠️  
+
+### 📅 Week 4 – Final Project & Submissions ✅
+- Participated in **project discussions** and received feedback   
+- Learned about the **Data Prep Kit** to structure and manage datasets 
+- Successfully submitted my **final Agentic AI project** using IBM tools 
 
 ---
 
