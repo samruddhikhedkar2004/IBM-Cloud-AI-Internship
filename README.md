@@ -6,7 +6,7 @@ This repository contains details and files from my **4-week IBM SkillsBuild Inte
 
 ## 📖 Overview of the Internship  
 
-- 🗓️ **Duration:** 4 Weeks  
+- 🗓️ **Duration:** 4 Weeks (15th July 2025 to 7th August 2025)
 ### 📅 Week 1 – Orientation & Getting Started 💻
 - Got introduced to the internship structure and expectations  
 - Registered on **IBM Cloud** and set up my environment 
