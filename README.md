@@ -52,10 +52,11 @@ This repository contains details and files from my **4-week IBM SkillsBuild Inte
 
 ## 📂 Contents  
 
-- `Final_Project.pdf` – Full project report  
-- `Knowledge_Vector_Docs/` – Destination guides & FAQs for KVI  
-- `Screenshots/` – Deployment & workflow images  
-- `README.md` – This file  
+- Final_Project.pdf – Finale project presentation pdf  
+- Problem_Statement.docx – Defined problem and approach  
+- Agentic_Travel_Agent.ipynb – Jupyter Notebook of the project  
+- Certificates/ – Course completion certificates (Journey to Cloud, Getting Started with AI, RAG Lab)  
+- README.md – This file  
 
 ---
 
